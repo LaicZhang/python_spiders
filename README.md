@@ -17,7 +17,8 @@ If it is infringing , please ask me to delete that file.
 [增加CSDN博客阅读数](https://github.com/LaicZhang/python_spiders/blob/master/add_CSDN_read)
 <br>
 [Python3批量下载抖音无水印视频](https://github.com/LaicZhang/python_spiders/blob/master/douyin_download.py)
-
+<br>
+[笔趣阁小说下载](https://github.com/LaicZhang/python_spiders/blob/master/biquge.py)
 
 ## 其他
 欢迎 Pull requests，感谢贡献。
