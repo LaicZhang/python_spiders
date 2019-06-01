@@ -20,5 +20,13 @@ If it is infringing , please ask me to delete that file.
 <br>
 [笔趣阁小说下载](https://github.com/LaicZhang/python_spiders/blob/master/biquge.py)
 
+
+
+
+
+## About me
+[CSDN博客](https://blog.csdn.net/qq_44621510)
+[知乎专栏-python爬虫三百篇-更新中](https://zhuanlan.zhihu.com/c_1117459054397693952)
+LaicZhang的博客-搭建中
 ## 其他
 欢迎 Pull requests，感谢贡献。
