@@ -19,6 +19,8 @@ If it is infringing , please ask me to delete that file.
 [Python3批量下载抖音无水印视频](https://github.com/LaicZhang/python_spiders/blob/master/douyin_download.py)
 <br>
 [笔趣阁小说下载](https://github.com/LaicZhang/python_spiders/blob/master/biquge.py)
+<br>
+[王者荣耀英雄皮肤爬取](https://github.com/LaicZhang/python_spiders/blob/master/KingGlory.py)
 
 
 
