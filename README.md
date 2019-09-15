@@ -1,7 +1,7 @@
 # python_spiders
 
 ## 目录 
-[37行代码增加CSDN博客阅读数](https://github.com/LaicZhang/python_spiders/blob/master/add_CSDN_read)
+[37行代码增加CSDN博客阅读数](https://github.com/LaicZhang/python_spiders/blob/master/add_CSDN_read.py)
 
 [Python3批量下载抖音无水印视频](https://github.com/LaicZhang/python_spiders/blob/master/douyin_download.py)
 
