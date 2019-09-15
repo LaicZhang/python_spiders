@@ -3,6 +3,7 @@
 
 import requests
 from bs4 import BeautifulSoup
+import time
 
 # 解析源码
 def GetHtmlText(url):
@@ -24,7 +25,8 @@ def Find_Click(soup):
 
 def main():
     # 博文页数
-    Pages = int(input('Please enter the number of blog pages:'))
+    # Pages = int(input('Please enter the number of blog pages:'))
+    Pages = 13 # 此刻我的blog有13页
     for Page in range(1, Pages + 1):
         print('Page=', Page)
         # 博客地址，这里是我的CSDN博客地址
@@ -34,4 +36,6 @@ def main():
         Find_Click(soup)
 
 if __name__ == '__main__':
-    main()
+    while 1:
+        main()
+        time.sleep(30)
